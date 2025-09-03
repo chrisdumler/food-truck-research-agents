@@ -2,7 +2,7 @@
 
 *A case study in scalable AI collaboration design*
 
-<iframe src="https://share.descript.com/embed/mpqCxQyBB1T" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://share.descript.com/view/mpqCxQyBB1T))
 
 ## The Challenge: Systematic AI Coordination at Scale
 
