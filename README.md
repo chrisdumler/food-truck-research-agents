@@ -2,6 +2,8 @@
 
 *A case study in scalable AI collaboration design*
 
+<iframe src="https://share.descript.com/embed/mpqCxQyBB1T" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 ## The Challenge: Systematic AI Coordination at Scale
 
 **Started with:** A hand-drawn workflow diagram for multi-agent research  
