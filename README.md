@@ -2,7 +2,7 @@
 
 *A case study in scalable AI collaboration design*
 
-[Watch on Descript]([https://share.descript.com/view/your-video-id](https://share.descript.com/view/mpqCxQyBB1T))
+[Watch on Descript]([https://share.descript.com/view/your-video-id](https://share.descript.com/view/mpqCxQyBB1T)
 
 ## The Challenge: Systematic AI Coordination at Scale
 
